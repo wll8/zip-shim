@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "7zip-bin": "^5.2.0",
-    "run-shell": "^1.0.0",
+    "run-shell-text": "^1.0.0",
     "shelljs": "^0.8.5"
   }
 }

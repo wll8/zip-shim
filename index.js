@@ -2,7 +2,7 @@
 
 const shelljs = require(`shelljs`)
 const zipBin = require(`7zip-bin`)
-const runShell = require(`run-shell`)
+const runShell = require(`run-shell-text`)
 
 /**
  * 压缩文件
